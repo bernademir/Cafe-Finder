@@ -1,16 +1,8 @@
-# coffeefinder
+# Cafe Finder
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Flutter project based on Google Maps
+Created and integrated a Google Cloud API key to this project
+Using the location package for getting the current location 
+Codes are according to the new releases null safety
+Using google_maps_webservice package for finding the nearby cafes 
+And finally this project includes interactive markers
